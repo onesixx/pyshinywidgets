@@ -1,0 +1,5 @@
+{
+  "ignore": ["examples", "sandbox", "build", "dist", "typings"],
+  "typeCheckingMode": "strict",
+  "reportPrivateUsage": "none",
+}

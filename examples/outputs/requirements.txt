@@ -1,0 +1,17 @@
+shiny
+shinywidgets
+ipywidgets
+numpy
+pandas
+qgrid
+vega_datasets
+bokeh
+jupyter_bokeh
+ipyleaflet
+pydeck
+altair
+plotly
+bqplot
+ipychart
+ipywebrtc
+vega
